@@ -16,6 +16,7 @@ public class Main {
         System.out.println("Syreneti");
 
         System.out.println("Missed you Syreneti!!");
+        System.out.println("Osei I missed you too!!");
 
 
     }
