@@ -9,6 +9,8 @@ public class NewClass {
         System.out.println("Helloooo");
         System.out.println("Hi Mike");
         System.out.println("YURRR");
+        System.out.println("Long Island");
+
     }
 
 }
