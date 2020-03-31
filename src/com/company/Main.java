@@ -11,6 +11,7 @@ public class Main {
 
         System.out.println("Hi Test");
         System.out.println("fix me");
+        System.out.println("Tell me something about yourself that i don't know");
         System.out.println("actually fix this one");
 
     }
