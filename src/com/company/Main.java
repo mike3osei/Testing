@@ -10,7 +10,7 @@ public class Main {
 
 
         System.out.println("Hi Test");
-        System.out.prinln("Tell me something you don't know about yourself?");
+        System.out.println("Tell me something you don't know about yourself?");
 
     }
 }
